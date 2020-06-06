@@ -3,8 +3,6 @@
 package lesson2.task2
 
 import lesson1.task1.sqr
-import java.lang.Math.max
-import kotlin.math.min
 import kotlin.math.sqrt
 
 /**
