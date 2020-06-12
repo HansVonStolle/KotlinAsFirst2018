@@ -1,5 +1,3 @@
-@file:Suppress("UNUSED_PARAMETER")
-
 package lesson3.task1
 
 import lesson1.task1.sqr
